@@ -2,6 +2,8 @@
 
 [Homepage](https://jushengzhang.github.io/) · [Google Scholar](https://scholar.google.com/citations?user=-EvMmxoAAAAJ) · [Email](mailto:jusheng@stanford.edu)
 
+<sub>My earlier GitHub accounts are no longer accessible. I’m gradually migrating and reorganizing my projects under this account.</sub>
+
 My research connects reliable agents, efficient visual intelligence, and embodied decision-making. My goal is to help build the next generation of **AI agents for scientific discovery**.
 
 ## About Me
@@ -53,7 +55,3 @@ I am grateful to Prof. Keze Wang for giving me the opportunity to begin my resea
 ## Let's Connect
 
 [Email](mailto:jusheng@stanford.edu) · [Homepage](https://jushengzhang.github.io/) · [Google Scholar](https://scholar.google.com/citations?user=-EvMmxoAAAAJ) · [LinkedIn](https://www.linkedin.com/in/%E5%B7%A8%E5%A3%B0-%E5%BC%A0-50510b1b8/)
-
----
-
-<sub>My earlier GitHub accounts are no longer accessible. I’m gradually migrating and reorganizing my projects under this account.</sub>
