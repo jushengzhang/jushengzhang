@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="970" height="178" viewBox="0 0 970 178" role="img" aria-labelledby="title desc">
-  <title id="title">Jusheng Zhang</title>
-  <desc id="desc">Agents, vision-language models, robotics, and AI for science.</desc>
-  <rect width="970" height="178" rx="8" fill="#f5f8fc"/>
-  <path d="M1 28V150" stroke="#345f93" stroke-width="4"/>
-  <text x="32" y="72" fill="#285987" font-family="Georgia, 'Times New Roman', serif" font-size="44" font-weight="700">Jusheng Zhang</text>
-  <text x="34" y="112" fill="#345f93" font-family="Arial, sans-serif" font-size="19">Agents · Vision-Language Models · Robotics · AI for Science</text>
-  <path d="M34 140H936" stroke="#dbe4ef"/>
-</svg>
