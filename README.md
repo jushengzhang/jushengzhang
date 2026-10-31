@@ -10,7 +10,7 @@ My research connects reliable agents, efficient visual intelligence, and embodie
 
 - **Stanford University** — Visiting Researcher, working on agentic AI for life sciences.
 - **Google DeepMind** — Student Researcher, working on efficient video and vision-language models.
-- **Education** — B.S. in Computer Science and Technology, University of Electronic Science and Technology of China.
+- **Sun Yat-sen University** — Former Lab Researcher at HCP Lab, focused on multi-agent and multimodal learning.
 
 ## Research Interests
 
